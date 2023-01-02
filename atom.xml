@@ -6,7 +6,7 @@
   <link href="https://cacaview.github.io/atom.xml" rel="self"/>
   
   <link href="https://cacaview.github.io/"/>
-  <updated>2022-12-28T12:21:21.025Z</updated>
+  <updated>2023-01-02T02:53:32.353Z</updated>
   <id>https://cacaview.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://cacaview.github.io/2023/01/02/arch%20Linux%E5%AE%89%E8%A3%85%E6%97%B6Failed%20to%20install%20packages%20to%20new%20root%E9%94%99%E8%AF%AF/"/>
+    <id>https://cacaview.github.io/2023/01/02/arch%20Linux%E5%AE%89%E8%A3%85%E6%97%B6Failed%20to%20install%20packages%20to%20new%20root%E9%94%99%E8%AF%AF/</id>
+    <published>2023-01-02T02:53:32.265Z</published>
+    <updated>2023-01-02T02:53:32.353Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="arch-Linux安装时Failed-to-install-packages-to-new-root错误"><a href="#arch-Linux安装时Failed-to-install-packages-to-new-root错误" class="headerlink" title="arch Linux安装时Failed to install packages to new root错误"></a>arch Linux安装时Failed to install packages to new root错误</h1><p>如图，出现以下错误：</p><p><img src="http://m.qpic.cn/psc?/V546hxxm2iRBsN2dy3ak074f4i0U8yHt/ruAMsa53pVQWN7FLK88i5iqaifGdWd7mZA4vijUTdoHlihi8mKrYo.30ROmWwB3STjUoDrQmCcBbu1OylOunMWaV.iLGprZbl70F6ZqpQww!/b&bo=gAezAwAAAAABBxc!&rf=viewer_4&t=5" alt="img"></p><h2 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h2><p>只需要安装archlinux-keyring即可</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pacman -S archlinux-keyring</span><br></pre></td></tr></table></figure><link rel="stylesheet" href="/css/spoiler.css" type="text/css"><script src="/js/spoiler.js" type="text/javascript" async></script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;arch-Linux安装时Failed-to-install-packages-to-new-root错误&quot;&gt;&lt;a href=&quot;#arch-Linux安装时Failed-to-install-packages-to-new-root错误&quot; class=&quot;heade</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>ArchLinux 更换系统语言</title>
